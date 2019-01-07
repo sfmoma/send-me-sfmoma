@@ -1,0 +1,6 @@
+{
+    "require": {
+       "mixpanel/mixpanel-php" : "2.*",
+       "twilio/sdk" : "5.*"
+    }
+}

@@ -1,0 +1,10 @@
+/* TEAM */
+	Creative Technologist: Jay Mollica
+	Site: https://www.sfmoma.org/send-me-sfmoma/
+	Twitter: @jaymollica
+	Location: San Francisco, CA
+
+	Department: SFMOMA Web + Digital
+	Site: https://www.sfmoma.org/
+	Twitter: @sfmoma
+	Location: San Francisco, CA
