@@ -1,7 +1,9 @@
 Send Me SFMOMA
 ==============
 
-"Send Me SFMOMA" is open source software from the [San Francisco Museum of Modern Art](https://www.sfmoma.org/) that replies to text messages by sending art.  For example, if someone were to text "send me the ocean", the software might respond by sending Pirkle Jones' [Breaking Wave, Golden Gate](https://www.sfmoma.org/artwork/70.40.1/).  You can use this software set up a similar service for your museum or art collection.  See SFMOMA's [own post](https://www.sfmoma.org/read/send-me-sfmoma/) for more about this project.
+"Send Me SFMOMA" is open source software from the [San Francisco Museum of Modern Art](https://www.sfmoma.org/) that replies to text messages by sending art.  For example, if someone were to text "send me the ocean", the software might respond by sending Pirkle Jones' [Breaking Wave, Golden Gate](https://www.sfmoma.org/artwork/70.40.1/).  You can use this software set up a similar service for your museum or art collection.
+
+See SFMOMA's [introductory post](https://www.sfmoma.org/read/send-me-sfmoma/) (2017) and [follow-up post](https://www.sfmoma.org/read/all-good-things-must-come-to-an-end-the-sunset-of-send-me-sfmoma/) (2020) for more about this project.
 
 Setup
 -----
